@@ -5,7 +5,7 @@ class Rectangle
     public double X, Y, Width, Height;
 
     // Конструкторы
-    public Rectangle(double x, double y, double width, double height)
+    public Rectangle(double x, double y, double width, double height) //блавбалабал
     {
         X = x; Y = y;
         Width = width;
